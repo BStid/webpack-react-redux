@@ -1,0 +1,12 @@
+.env
+build
+node_modules
+.lock-wscript
+.grunt
+coverage
+lib-cov
+*.pid
+*.seed
+pids
+build/Release
+.idea
